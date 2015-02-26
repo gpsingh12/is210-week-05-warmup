@@ -11,6 +11,7 @@ def know_what_i_mean(wink, numwink=2):
            numwink(int): Takes default value of 2.
            winks(str): Arg is assigned vallues using mathematical computations.
            restr(mixed): return the value corresponding to arg winks and nudges.
+
        Return(str):
                returns a string value assigned to retsr.
 
